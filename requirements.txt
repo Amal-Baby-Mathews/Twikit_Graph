@@ -1,0 +1,13 @@
+# requirements.txt
+twikit
+python-dotenv
+prompt-toolkit
+vaderSentiment
+rich
+transformers
+torch
+streamlit
+twikit
+python-dotenv
+networkx
+pyvis
