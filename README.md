@@ -99,6 +99,18 @@ streamlit run app.py
 
 This will automatically open a new tab in your web browser. Use the sidebar to log in, then enter a topic in the main panel and click "Generate Graph" to begin the analysis.
 
+## 🖼️ Streamlit UI and Sample Result
+
+Below is an example of the Streamlit application's user interface and a sample result of the sentiment analysis.
+
+### Streamlit UI
+The application features an intuitive sidebar for user login and topic input. The main panel displays the generated knowledge graph and sentiment statistics.
+
+### Sample Result
+After entering a topic and running the analysis, the application generates a dynamic knowledge graph. Nodes represent tweets, users, and hashtags, while edges indicate relationships. Sentiment statistics are displayed alongside the graph.
+
+![Sample Result](test.png)
+
 -----
 
 ## \#\# 📂 Project Structure
